@@ -1,7 +1,7 @@
 {
-  "name": "AbilBotz",
+  "name": "NekoBotz",
   "version": "1.0.0",
-  "description": "Gak Ada",
+  "description": "Kamu kang recode",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -60,10 +60,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbilBotz/"
+    "url": "git+https://github.com/BotzwhatsApp/"
   },
   "bugs": {
-    "url": "https://github.com/AbilBotz/isues"
+    "url": "https://github.com/BotzwhatsApp/isues"
   },
-  "homepage": "https://github.com/AbilBotz/AbilBotz"
+  "homepage": "https://github.com/BotzwhatsApp/V1n"
 }
