@@ -61,4 +61,8 @@ npm start
 
 ## Thanks To
 AllahSwt,Ortugw,Gw
-
+Zero-yt
+Dhanigans
+Ramdaniofficial
+Neko Botz
+Lexxy official
